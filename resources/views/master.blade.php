@@ -6,7 +6,7 @@
     <title>Desktop / Login</title>
 </head>
 <body>
-    <div>
+    <div class="container">
         @yield('content')
     </div>
 </body>
