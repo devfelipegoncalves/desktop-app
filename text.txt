@@ -1,0 +1,3 @@
+git commit -a -m ""
+git init
+git push origin master
